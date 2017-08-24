@@ -1,0 +1,37 @@
+# Build settings
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The Best Ways to Make Money Online
+email: 
+description: Gimmiemonies.com outlines the best way to make money online.  Whether you are looking for side income or a full time job, our aim to is to provide all the best ways to make money right on your computer.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://gimmiemonies.com/" # the base hostname & protocol for your site
+twitter_username: carter_rink
+github_username:  cartuhok
+paginate: 3
+paginate_path: "/blog/page:num/"
+
+# Build settings
+markdown: kramdown
+gems: [jekyll-paginate]
+    
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+  
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Carter Rink
+      layout: "post"
