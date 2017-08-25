@@ -1,6 +1,5 @@
 ---
 title: "Some More Posts"
-layout: default
 
 ---
 
