@@ -14,7 +14,7 @@ Etiam nec nulla eget enim lacinia facilisis. Nulla pharetra dictum rhoncus. Proi
 
 <img src="assets/images/40.jpg">
 
-![alt text]({{ site.baseurl }}assets/images/40.jpg "Logo Title Text 1")
+![alt text]({{ site.url }}assets/images/40.jpg "Logo Title Text 1")
 
 
 Nulla fermentum orci et mi pellentesque lacinia. Suspendisse ac tortor leo. Sed tincidunt arcu odio, quis porta lacus ultrices vel. Praesent rutrum enim odio, sed maximus erat lacinia efficitur. Cras interdum ligula vel justo elementum tincidunt. Vivamus lacinia risus non velit tincidunt, gravida lacinia odio accumsan. Maecenas pulvinar ante id libero venenatis, non porta erat aliquet. Aliquam dignissim vel dui vel accumsan. Duis in libero pellentesque, lobortis risus non, feugiat erat. Donec scelerisque, est sit amet dapibus bibendum, ipsum massa tincidunt dui, a consequat purus lorem quis erat. Curabitur facilisis nulla turpis, vel volutpat urna sagittis eget. Vestibulum sed ornare purus. Sed iaculis massa a ex cursus interdum. In hac habitasse platea dictumst.
