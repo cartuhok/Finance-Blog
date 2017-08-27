@@ -538,7 +538,8 @@ nav, .main, .hamburger, .cover {
   cursor: pointer;
   font-weight: 600;
   padding: 44px;
-  font-size: 48px; }
+  font-size: 48px;
+  color: #BD5248; }
 
 .foot a {
   text-align: center;
