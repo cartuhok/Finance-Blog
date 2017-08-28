@@ -668,6 +668,9 @@ img {
   max-width: 100%;
   height: auto; }
 
+.space1 {
+  padding: 60px; }
+
 .banner {
   position: relative;
   height: 70vh;
