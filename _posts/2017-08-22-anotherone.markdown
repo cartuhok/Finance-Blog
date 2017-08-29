@@ -1,7 +1,7 @@
 ---
 title: "Some More Posts"
 categories: 
- - SideIncome
+ - sideincome
 
 ---
 
