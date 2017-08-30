@@ -634,7 +634,8 @@ button:hover {
   color: black;
   font-size: 64px;
   font-family: 'Roboto', sans-serif;
-  font-weight: bolder; }
+  font-weight: bolder;
+  line-height: 1.2; }
 
 .posts:first-child {
   padding-top: 60px; }
