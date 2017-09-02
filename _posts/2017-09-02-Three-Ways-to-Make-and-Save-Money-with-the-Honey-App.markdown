@@ -1,5 +1,6 @@
 ---
 title: "3 Ways to Make and Save Money with the Honey App"
+date:   2017-09-02 17:28:03 -0500
 categories: 
  - Deals
 
