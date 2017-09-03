@@ -27,7 +27,7 @@ Daily surveys with [InstaGC][InstaGC] awards around 80 points per survey on aver
 
 <h3>4. Shopping</h3>
 
-Similar to other side income sites like [Swagbucks][Swagbucks], InstaGC rewards you for shopping online.  We still thinks [the Honey extension][the Honey extension] is the best online shopping rewards program, but InstaGC does offer some great discounts.  [InstaGC][InstaGC] offers online shopping rewards in three main ways, cash back, coupons, and points for trial offers.  
+Similar to other side income sites like [Swagbucks][Swagbucks], InstaGC rewards you for shopping online.  We still think [the Honey extension][the Honey extension] is the best online shopping rewards program, but InstaGC does offer some great discounts.  [InstaGC][InstaGC] offers online shopping rewards in three main ways, cash back, coupons, and points for trial offers.  
 
 <center><a href="https://www.instagc.com/1708137"><img src="https://cdn.igcstc.com/s/banners/1708137/10.gif" width="468" height="60" /></a></center>
 
