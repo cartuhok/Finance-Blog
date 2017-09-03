@@ -631,11 +631,14 @@ button:hover {
 
 #h1a {
   text-decoration: none;
-  color: black;
+  color: #2E2D33;
   font-size: 64px;
   font-family: 'Roboto', sans-serif;
   font-weight: bolder;
   line-height: 1.2; }
+
+#h1a:hover {
+  color: #424247; }
 
 .posts:first-child {
   padding-top: 60px; }
