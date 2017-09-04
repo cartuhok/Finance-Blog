@@ -1,5 +1,5 @@
 ---
-title: "Stop Paying to Host Your Blog. Jekyll and Github Pages Explained"
+title: "Stop Paying to Host Your Blog. Jekyll and GitHub Pages Explained"
 date:   2017-09-04 14:14:03 -0300
 categories: 
  - WorkFromHome
