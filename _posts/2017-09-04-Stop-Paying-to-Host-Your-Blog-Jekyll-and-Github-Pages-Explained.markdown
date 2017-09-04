@@ -15,8 +15,6 @@ Now that your blog is up and running, you can start writings posts.  You can blo
 
 Ready to publish your blog?  The first step is to purchase a custom domain.  We recommend [namecheap.com][namecheap.com],  they make registering and managing domains simple and affordable.  Domains on [namecheap][namecheap] start as low as $0.88 per year.  Now here’s where the savings start: with Jekyll, you can host your site for free with [Github Pages][Github Pages], even with a custom domain.  Start a repository by [following the instructions on their webpage][following the instructions on their webpage], and you’ll have your site up and running within minutes.  You can host one site per repository, so if you have multiple blogs you can save hundreds of dollars per year on hosting.  To make publishing posts even easier, we recommend using [GitHub Desktop][GitHub Desktop].  Github servers are extremely reliable with a 99.95% uptime and used by thousands of blogs, companies, and organizations worldwide.
 
-<center><a rel="nofollow" href="https://affiliate.namecheap.com/?affId=121268"><img src="http://files.namecheap.com/graphics/linkus/200x200-1.gif" width="200" height="200" border="0" alt="Namecheap.com"></a></center>
-
 Whether you’re new to blogging, or a seasoned vet, it’s important to consider operating costs for your online business.  We want to present this information to you so you can make an educated decision before unnecessarily paying to host your site with a custom domain. That’s why we chose to run our site with Jekyll and [Github Pages][Github Pages]. [Click here to learn more][Click here to learn more].  
   
 
