@@ -643,7 +643,8 @@ button:hover {
   line-height: 1.2; }
 
 #h1a:hover {
-  color: #424247; }
+  color: #424247;
+  text-decoration: underline; }
 
 .posts:first-child {
   padding-top: 60px; }
