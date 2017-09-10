@@ -6,8 +6,7 @@ categories:
 
 ---
 
-[Acorns][Acorns] is an investment app available on Android and iOS that invests your spare change automatically into a portfolio of ETFs.  Using a system called ‘Round-Ups’, Acorns links a debit or credit card and invests your spare change from daily purchases.  For example, if you purchase a coffee for $1.25, Acorns will round up to $2.00 and invest $.75 into your account.  Ease of use and simplicity is Acorns' main selling point.  It may not be the most robust investment tool, but it’s a great way to get introduced to investing if you’re 1st starting out.  
-
+[Acorns][Acorns] is an investment app available on Android and iOS that invests your spare change automatically into a portfolio of ETFs.  Using a system called ‘Round-Ups’, Acorns links a debit or credit card and invests your spare change from daily purchases.  For example, if you purchase a coffee for $1.25, Acorns will round up to $2.00 and invest $.75 into your account.  Being mobile-first, ease of use is really Acorns' main selling point, you can completely control and manage your account from your phone.  
 
 <center><a href="acorns.com/invite/VX2C78" target="_blank"><img src="/Acorns1.7.jpg" width="336" border="0" alt="Acorns Moderate Portfolio"/></a></center>
 
