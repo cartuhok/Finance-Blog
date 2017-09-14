@@ -14,7 +14,7 @@ categories:
 
 <h3>Other Features</h3> 
 
-In addition to BeFrugal’s website, [BeFrugal][BeFrugal] has an app available on Android and iOS. The app is more or less a mobile version of their website and allows you to browse all the coupons available.  Similar to they [Honey extension][Honey extension], BeFrugal also has a browser extension that will automatically find any promo codes at online checkouts.  Click on the dropdown, and select the promo code that you want to apply. 
+In addition to BeFrugal’s website, [BeFrugal][BeFrugal] has an app available on Android and iOS. The app is more or less a mobile version of their website and allows you to browse all the coupons available.  Similar to the [Honey extension][Honey extension], BeFrugal also has a browser extension that will automatically find any promo codes at online checkouts.  Click on the dropdown, and select the promo code that you want to apply. 
 
 <center><a href="https://www.befrugal.com/referral/?ref=POSQFTC"><img src="//btn.bfrl.us/refer/banners/befrugal-cashback-468x60-button1.png" width="468" height="60" alt="BeFrugal.com Cash Back" style="width: auto;" /></a></center>
 
