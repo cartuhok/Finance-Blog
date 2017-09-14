@@ -10,11 +10,11 @@ categories:
 
 <h3>1. Shopping</h3>
 
-<a href="https://www.joinhoney.com/ref/i0il6b"><img src="/FindSavings.jpg" height="252" width="663" border="0" alt="Join Honey!"/></a>
+<a href="https://www.joinhoney.com/"><img src="/FindSavings.jpg" height="252" width="663" border="0" alt="Join Honey!"/></a>
 
 Once the extension is downloaded, just shop online like you normally would.  The best thing about [Honey][Honey] is that it’s a browser extension so you don't need to use a special platform.  If there’s a promo code field on the site’s checkout page, Honey will crawl the web looking for promo codes and automatically add the best one to your cart.  All you have to do is click the ‘Find Savings!’ button.  
 
-<a href="https://www.joinhoney.com/ref/i0il6b"><img src="/savings.jpg" height="252" width="663" border="0" alt="Join Honey!"/></a>
+<a href="https://www.joinhoney.com/"><img src="/savings.jpg" height="252" width="663" border="0" alt="Join Honey!"/></a>
 
 
 [Honey][Honey] is great for shopping on online retail stores like J.Crew, Best Buy, and Lowes.  Honey will also save you money on travel sites like Expedia, Orbitz, and Hotwire with minimal effort.  Ease of use is really where Honey shines, it’s a set it and forget it browser extension which only pops up when you need it. If you click the Honey button outside of a shopping cart, it will display the savings it found for that store; this is somewhat similar to the [SwagButton from Swagbucks][SwagButton from Swagbucks].    
@@ -24,7 +24,7 @@ One of the drawbacks of the Honey extension is that its main feature doesn’t r
 
 <h3>2. HoneyGold</h3>
 
-<a href="https://www.joinhoney.com/ref/i0il6b"><img src="/HoneyGold.png" height="252" width="663" border="0" alt="Join Honey!"/></a>
+<a href="https://www.joinhoney.com/"><img src="/HoneyGold.png" height="252" width="663" border="0" alt="Join Honey!"/></a>
 
 The Honey extension automatically finds promo codes and applies them to your cart. Honey also gives you cash back on over 3,700 online retailers.  When you shop at sites like Macys, Target, and Walmart, you’ll get anywhere from 0-100% back in Gold. Once you get 1000 Honey Gold, you can cash it in for a $10 Amazon gift card.  You can use your Honey Gold to get gift cards to other stores too like Groupon, Sears, and Brookstone.  
 
@@ -39,7 +39,7 @@ DropList for the Honey extension will notify you when an item drops in price wit
 [You can sign up for Honey here][You can sign up for Honey here].   
 
 
-[Honey]: https://www.joinhoney.com/ref/i0il6b
+[Honey]: https://www.joinhoney.com/
 [SwagButton from Swagbucks]: http://gimmiemonies.com/sideincome/2017/08/29/Swagbucks-Review-2017-How-Much-Money-Can-You-Make.html
-[You can sign up for Honey here]: https://www.joinhoney.com/ref/i0il6b
-[download the Honey browser extension]: https://www.joinhoney.com/ref/i0il6b
+[You can sign up for Honey here]: https://www.joinhoney.com/
+[download the Honey browser extension]: https://www.joinhoney.com/
