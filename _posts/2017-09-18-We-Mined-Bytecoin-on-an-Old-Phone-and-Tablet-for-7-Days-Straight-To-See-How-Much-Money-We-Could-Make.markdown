@@ -59,7 +59,7 @@ The pace got even slower on day 4.  At days end, we were up to 13.56 Bytecoins, 
 
 <h3>Day 5</h3> 
 
-Day 5 we were up to 16.54 Bytecoins.   Definitely an increase from day 3, but still only a 2.98 coin yield for the day.   Questions stared looming if this was even worth it, but we had to push on, only 2 days left.  
+Day 5 we were up to 16.54 Bytecoins.   Definitely an increase from day 3, but still only a 2.98 coin yield for the day.   Questions started looming if this was even worth it, but we had to push on, only 2 days left.  
 
 <a href="https://minergate.com/a/7329764ffb8d1459d50bd1ef" target="_blank"><img src="/MinergateDay5.jpg" width="663" border="0" alt="Minergate App"/></a>
 
