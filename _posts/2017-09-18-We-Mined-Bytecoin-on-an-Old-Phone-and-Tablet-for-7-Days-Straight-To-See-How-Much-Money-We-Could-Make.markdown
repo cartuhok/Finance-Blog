@@ -8,9 +8,7 @@ categories:
 
 Turns out, not a lot.  But 1st, a little more about Bytecoin and how we did it.  [Bytecoin][Bytecoin] is a cryptocurrency similar to Bitcoin that originally launched in 2012.  According to their website, it’s the 1st enterprise-ready cryptocurrency solution that is fast and secure.  One of the main selling points of Bytecoin is that it allows for international money transfers quickly. Transferring money internationally quickly and securely is incredibly useful for businesses and consumers alike.  Usually, if you transfer money using a traditional bank, it would take 2-3 business days to appear in the payees account.  With Bytecoin, instead of waiting days transfer money internationally, it takes about 120 seconds.  
 
-There’s been a lot of hype around cryptocurrency lately, and in our opinion a lot of overhype.  Cryptocurrency is a volatile market.  At the time of this article, JPMorgan CEO Jamie Dimon called cryptocurrency a ‘fraud’ which sent the markets tumbling.  Our opinion of cryptocurrency is somewhere in-between. We think parts of cryptocurrecy are overhyped, but  we can see the real world uses in crypto, and transferring money internationally is at the top of that list.  
-
-We chose Bytecoin because it’s relatively easy to mine.  It takes less a lot hardware to mine Bytecoin than it does for bigger currencies like Bitcoin, and even makes it possible to mine on your phone. Here’s how we did it: 
+We chose Bytecoin because it’s relatively easy to mine.  It takes a lot less hardware to mine Bytecoin than it does for bigger currencies like Bitcoin, and even makes it possible to mine on your phone. Here’s how we did it: 
 
 <h3>The Devices Used</h3>
 
