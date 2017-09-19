@@ -24,7 +24,7 @@ To mine Bytecoin, we used an app called [Minergate][Minergate], which is availab
 
 Once we downloaded the app, we left the phone and tablet plugged in and running for 7 days straight to see how much Bytecoin we could mine.  We monitored our progress using Minergate’s dashboard, which you can access from your browser.  We specifically kept an eye on our hash rate, which is essentially how fast you’re mining.  The higher the hash rate, the more opportunity there is of obtaining coins.  What we found is that the Nexus 5 averaged around 15 H/s, and the Nexus 7 around 5 H/s.  
 
-What was interesting was this wasn’t really reflected in their dashboard, most of the time it said we were mining at 0 H/s and that our devices were offline.  We learned that jumping on and offline is normal, but the dashboard GUI seems a little buggy providing realtime information.  
+What was interesting was this wasn’t really reflected on their dashboard, most of the time it said we were mining at 0 H/s and that our devices were offline.  We learned that jumping on and offline is normal, but the dashboard GUI seems a little buggy providing realtime information.  
 
 <h3>Day 1</h3> 
 
