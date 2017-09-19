@@ -30,7 +30,7 @@ What was interesting was this wasn’t really reflected in their dashboard, most
 
 <h3>Day 1</h3> 
 
-At the end of day 1, we mined around 4.19 Bytecoins.  This meant the we should expect to see around 28 Bytecoins at the end of the week.  
+At the end of day 1, we mined around 4.19 Bytecoins.  This meant we should expect to see around 28 Bytecoins at the end of the week.  
 
 <a href="https://minergate.com/a/7329764ffb8d1459d50bd1ef" target="_blank"><img src="/MinerGateDay1.jpg" width="663" border="0" alt="Minergate App"/></a>
 
