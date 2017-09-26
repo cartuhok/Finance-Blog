@@ -15,7 +15,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gimmiemonies.com/" # the base hostname & protocol for your site
 twitter_username: carter_rink
 github_username:  cartuhok
-paginate: 10
+paginate: 20
 paginate_path: "/blog/page:num/"
 
 # Build settings
