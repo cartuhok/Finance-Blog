@@ -6,7 +6,7 @@ categories:
 
 ---
 
-At it’s core, [Trim][Trim] is a virtual assistant that will identify and manage your recurring payments and even help you cancel the ones you don’t need. Trim started in 2015 and has saved its users over over $8,000,000.  Trim can also help save you money by identifying if something you purchased on Amazon had a price drop, and offering cash back rewards.  
+At its core, [Trim][Trim] is a virtual assistant that will identify and manage your recurring payments and even help you cancel the ones you don’t need. Trim started in 2015 and has saved its users over over $8,000,000.  Trim can also help save you money by identifying if something you purchased on Amazon had a price drop, and offering cash back rewards.  
 
 <h3>1. Manage Your Reoccurring Charges</h3> 
 
@@ -28,7 +28,7 @@ If you’ve ever signed up with Comcast or cell phone provider you’ll know the
 
 <h3>Conclusion</h3> 
 
-We tried [Trim][Trim] for a couple weeks, and were surprised to see how much money we could save.  We definitely recommend it as an easy way to manage your subscriptions and save time and money. Try [Trim][Trim] for 7 days and see how much money you can save.  We’d love to hear your results! You can email your story to info@gimmiemonies.com 
+We tried [Trim][Trim] for a couple weeks, and were surprised to see how much money we could save.  We definitely recommend it as an easy way to manage your subscriptions to save time and money. Try [Trim][Trim] for 7 days and see how much money you can save.  We’d love to hear your results! You can email your story to info@gimmiemonies.com 
 
 
 [Trim]: http://www.asktrim.com/
