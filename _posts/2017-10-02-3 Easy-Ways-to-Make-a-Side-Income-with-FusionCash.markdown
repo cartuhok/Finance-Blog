@@ -6,7 +6,7 @@ categories:
 
 ---
 
-[FusionCash][FusionCash] was founded in 2005 and have a Better Business Bureau Rating of A+.  Similar to sites like [SwagBucks][SwagBucks], [InstaGC][InstaGC], [Earnably][Earnably], and [PrizeRebel][PrizeRebel], FusionCash will pay you for completing tasks online like taking surveys, watching videos, and playing games.  One thing we like about FusionCash is they don’t have a points system.  All of their payouts are listed in US Dollars, so you don’t have have to spend time converting points when it's time to get paid. Here’s 3 easy ways to make money online using FusionCash: 
+[FusionCash][FusionCash] was founded in 2005 and has a Better Business Bureau Rating of A+.  Similar to sites like [SwagBucks][SwagBucks], [InstaGC][InstaGC], [Earnably][Earnably], and [PrizeRebel][PrizeRebel], FusionCash will pay you for completing tasks online like taking surveys, watching videos, and playing games.  One thing we like about FusionCash is they don’t have a points system.  All of their payouts are listed in US Dollars, so you don’t have have to spend time converting points when it's time to get paid. Here’s 3 easy ways to make money online using FusionCash: 
 
 <h3>1. Watching Videos</h3> 
 
